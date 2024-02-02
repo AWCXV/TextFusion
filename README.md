@@ -1,6 +1,11 @@
 # TextFusion
 This is the offical implementation for the paper titled "TextFusion: Unveiling the Power of Textual Semantics for Controllable Image Fusion".
 
+# Highlight
+- **For the first time**, the text modality is introduced to the image fusion field.
+- A benchmark dataset.
+- A textual attention assessment.
+
 # Citation
 If this work is helpful to you, please cite it as:
 ```
