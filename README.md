@@ -6,6 +6,9 @@ This is the offical implementation for the paper titled "TextFusion: Unveiling t
 - A benchmark dataset.
 - A textual attention assessment.
 
+# Update
+- 2024-2-8 11:33:03: The training set of our IVT dataset is available at [this link](https://drive.google.com/file/d/1poc5sWwAY63zNnxlTAPSJZLNml75k6aK/view?usp=sharing) now.
+
 # Citation
 If this work is helpful to you, please cite it as:
 ```
