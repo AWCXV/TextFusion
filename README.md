@@ -1,5 +1,7 @@
 # TextFusion
-This is the offical implementation for the paper titled "TextFusion: Unveiling the Power of Textual Semantics for Controllable Image Fusion".
+This is the offical implementation for the paper titled "TextFusion: Unveiling the Power of Textual Semantics for Controllable Image Fusion". 
+
+[Paper](https://arxiv.org/abs/2312.14209)
 
 # Highlight
 - **For the first time**, the text modality is introduced to the image fusion field.
