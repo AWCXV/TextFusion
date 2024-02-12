@@ -12,7 +12,16 @@ This is the offical implementation for the paper titled "TextFusion: Unveiling t
 - A benchmark dataset.
 - A textual attention assessment.
 
-## To test
+## IVT dataset
+<div align="center">
+  <img src="Figs/dataset.png" width="800px" />
+  <p>"Statistic information of the proposed dataset."</p>
+</div>
+
+Training Set: [Google Drive](https://drive.google.com/file/d/1poc5sWwAY63zNnxlTAPSJZLNml75k6aK/view?usp=sharing)
+
+## The propose model
+### To test
 For the RGB and infrared image fusion:
 ```
 python main_test_rgb_ir.py
@@ -33,7 +42,7 @@ python main_test_gray_ir.py
 
 
 ## Update
-- 2024-2-8: The training set of our IVT dataset is available at [this link](https://drive.google.com/file/d/1poc5sWwAY63zNnxlTAPSJZLNml75k6aK/view?usp=sharing) now.
+- 2024-2-8: The training set of our IVT dataset is available now.
 - 2024-2-12: The pre-trained model and test files are available now!
 
 ## Citation
