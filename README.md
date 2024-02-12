@@ -4,8 +4,8 @@ This is the offical implementation for the paper titled "TextFusion: Unveiling t
 [Paper](https://arxiv.org/abs/2312.14209)
 
 <div align="center">
-  <img src="figs/motivation.png" width="800px" />
-  <p>Motivation of the proposed method</p>
+  <img src="Figs/motivation.png" width="800px" />
+  <p>Togenerate appropriate fusion results for a specific scenario (different tasks or concernedobjects), existing methods cannot realise it or require expensive retraining. The same goal can be achieved by simply adjusting the focused objectives of textual descriptionin our paradigm.</p>
 </div>
 
 ## Highlight
