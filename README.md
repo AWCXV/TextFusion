@@ -1,11 +1,10 @@
 # TextFusion
-This is the offical implementation for the paper titled "TextFusion: Unveiling the Power of Textual Semantics for Controllable Image Fusion". 
-
-[Paper](https://arxiv.org/abs/2312.14209)
+This is the offical implementation for the paper titled "TextFusion: Unveiling the Power of Textual Semantics for Controllable Image Fusion". [Paper Link](https://arxiv.org/abs/2312.14209)
 
 <div align="center">
-  <img src="Figs/motivation.png" width="800px" />
-  <p>Togenerate appropriate fusion results for a specific scenario (different tasks or concernedobjects), existing methods cannot realise it or require expensive retraining. The same goal can be achieved by simply adjusting the focused objectives of textual descriptionin our paradigm.</p>
+  <img src="Figs/motivation.png" width="600px" />
+  <p>"To generate appropriate fusion results for a specific scenario, existing methods cannot realize it or require expensive retraining. 
+    The same goal can be achieved by simply adjusting the focused objectives of textual description in our paradigm."</p>
 </div>
 
 ## Highlight
@@ -18,7 +17,7 @@ For the RGB and infrared image fusion:
 ```
 python main_test_rgb_ir.py
 ```
-**Tips**: you can directly adjust the "description" variable in .py file to control the image fusion results!
+**Tips**: If you are comparing our TextFusion with a pure apperance-based method, you can directly set the "description" as empty for a relative fair experiment.
 
 For the grayscale and infrared image fusion:
 
