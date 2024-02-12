@@ -3,6 +3,11 @@ This is the offical implementation for the paper titled "TextFusion: Unveiling t
 
 [Paper](https://arxiv.org/abs/2312.14209)
 
+<div align="center">
+  <img src="figs/motivation.png" width="800px" />
+  <p>Motivation of the proposed method</p>
+</div>
+
 ## Highlight
 - **For the first time**, the text modality is introduced to the image fusion field.
 - A benchmark dataset.
