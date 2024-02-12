@@ -17,7 +17,7 @@ For the RGB and infrared image fusion:
 ```
 python main_test_rgb_ir.py
 ```
-**Tips**: you can directly adjust the "description" variable in .py file to control the image fusion results!
+**Tips**: If you are comparing our TextFusion with a pure apperance-based method, you can directly set the "description" as empty for a relative fair experiment.
 
 For the grayscale and infrared image fusion:
 
