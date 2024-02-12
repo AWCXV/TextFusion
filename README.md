@@ -22,13 +22,13 @@ Training Set: [Google Drive](https://drive.google.com/file/d/1poc5sWwAY63zNnxlTA
 
 ## The propose model
 ### To test
-For the RGB and infrared image fusion:
+For the RGB and infrared image fusion (e.g., LLVIP):
 ```
 python main_test_rgb_ir.py
 ```
 **Tips**: If you are comparing our TextFusion with a pure apperance-based method, you can directly set the "description" as empty for a relative fair experiment.
 
-For the grayscale and infrared image fusion:
+For the grayscale and infrared image fusion (e.g., TNO):
 
 ```
 python main_test_gray_ir.py
