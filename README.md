@@ -3,17 +3,17 @@ This is the offical implementation for the paper titled "TextFusion: Unveiling t
 
 [Paper](https://arxiv.org/abs/2312.14209)
 
-# Highlight
+## Highlight
 - **For the first time**, the text modality is introduced to the image fusion field.
 - A benchmark dataset.
 - A textual attention assessment.
 
-# To test
+## To test
 For the RGB and infrared image fusion:
 ```
 python main_test_rgb_ir.py
 ```
-Tips: you can modify the "samples/description.txt" or directly adjust the variable in .py file to control the image fusion results!
+**Tips**: you can directly adjust the "description" variable in .py file to control the image fusion results!
 
 For the grayscale and infrared image fusion:
 
@@ -21,11 +21,18 @@ For the grayscale and infrared image fusion:
 python main_test_gray_ir.py
 ```
 
-# Update
+## Environment
+- Python 3.8.3
+- Torch 2.1.1
+- torchvision 0.16.1
+- opencv-python 4.8.1.78
+
+
+## Update
 - 2024-2-8: The training set of our IVT dataset is available at [this link](https://drive.google.com/file/d/1poc5sWwAY63zNnxlTAPSJZLNml75k6aK/view?usp=sharing) now.
 - 2024-2-12: The pre-trained model and test files are available now!
 
-# Citation
+## Citation
 If this work is helpful to you, please cite it as:
 ```
 @article{cheng2023textfusion,
