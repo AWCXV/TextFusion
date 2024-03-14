@@ -18,7 +18,9 @@ This is the offical implementation for the paper titled "TextFusion: Unveiling t
   <p>"Statistic information of the proposed dataset."</p>
 </div>
 
-Train Set: [Google Drive](https://drive.google.com/file/d/1poc5sWwAY63zNnxlTAPSJZLNml75k6aK/view?usp=sharing)
+Train Set [Images&Text]: [Google Drive](https://drive.google.com/file/d/1poc5sWwAY63zNnxlTAPSJZLNml75k6aK/view?usp=sharing)
+
+Train Set [Pre-gen Association Maps]: [Google Drive](https://drive.google.com/file/d/1Z9as1GZgoSem-FqRDlBW2YYwVyr8Wfgr/view?usp=sharing)
 
 Test Set: [Google Drive](https://drive.google.com/drive/folders/1a5fAg5wDYW0ZrIpaFPVR948zdmuAe2jQ?usp=sharing)
 
