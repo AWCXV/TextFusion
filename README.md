@@ -2,7 +2,7 @@
 This is the offical implementation for the paper titled "TextFusion: Unveiling the Power of Textual Semantics for Controllable Image Fusion". [Paper Link](https://arxiv.org/abs/2312.14209)
 
 <div align="center">
-  <img src="Figs/motivation.png" width="1000px" />
+  <img src="Figs/motivation.png2" width="1000px" />
   <p>"To generate appropriate fusion results for a specific scenario, existing methods cannot realize it or require expensive retraining. 
     The same goal can be achieved by simply adjusting the focused objectives of textual description in our paradigm."</p>
 </div>
