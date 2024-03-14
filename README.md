@@ -25,6 +25,38 @@ Train Set [Pre-gen Association Maps]: [Google Drive](https://drive.google.com/fi
 Test Set: [Google Drive](https://drive.google.com/drive/folders/1a5fAg5wDYW0ZrIpaFPVR948zdmuAe2jQ?usp=sharing)
 
 ## The propose model
+
+Folder structure:
+```
+/dataset
+--/IVT_train
+----/ir
+------/1.png
+----/vis
+------/1.png
+----/text
+------/1_1.txt
+----/association
+------/IVT_LLVIP_2000_imageIndex_1_textIndex_1
+--------/Final_Finetuned_BinaryInterestedMap.png
+/TextFusion
+--/main_trainTextFusion.py
+--/net.py
+--/main_test_rgb_ir.py
+```
+
+### To train
+Assuming that you already have  (download from above links) the pre-gen association map, images, and corresponding textual description in the "IVT_train" folder.
+
+(**The code to generate the association map on your own is coming soon**)
+
+Simply run the following prompt to start the training process:
+```
+python main_trainTextFusion.py
+```
+
+The trained models and corresponding loss values will be saved in the "models" folder.
+
 ### To test
 For the RGB and infrared image fusion (e.g., LLVIP):
 ```
