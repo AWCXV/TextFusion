@@ -18,7 +18,9 @@ This is the offical implementation for the paper titled "TextFusion: Unveiling t
   <p>"Statistic information of the proposed dataset."</p>
 </div>
 
-Training Set: [Google Drive](https://drive.google.com/file/d/1poc5sWwAY63zNnxlTAPSJZLNml75k6aK/view?usp=sharing)
+Train Set: [Google Drive](https://drive.google.com/file/d/1poc5sWwAY63zNnxlTAPSJZLNml75k6aK/view?usp=sharing)
+
+Test Set: [Google Drive](https://drive.google.com/drive/folders/1a5fAg5wDYW0ZrIpaFPVR948zdmuAe2jQ?usp=sharing)
 
 ## The propose model
 ### To test
@@ -42,6 +44,7 @@ python main_test_gray_ir.py
 
 
 ## Update
+- 2024-3-5: The testing set of our IVT dataset is available now.
 - 2024-2-8: The training set of our IVT dataset is available now.
 - 2024-2-12: The pre-trained model and test files are available now!
 
