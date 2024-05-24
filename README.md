@@ -78,11 +78,11 @@ python main_test_gray_ir.py
 
 
 ## Update
+- 2024-4-30: The codes for generating the association maps are available now!
 - 2024-3-14: The training code is available and corresponding pre-gen association maps are uploaded to the Google Drive.
 - 2024-3-5: The testing set of our IVT dataset is available now.
 - 2024-2-8: The training set of our IVT dataset is available now.
 - 2024-2-12: The pre-trained model and test files are available now!
-- 2024-4-30: The codes for generating the association maps are available now!
 
 ## Citation
 If this work is helpful to you, please cite it as:
