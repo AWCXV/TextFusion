@@ -48,14 +48,14 @@ Folder structure:
 ### To train
 Assuming that you already have  (download from above links) the pre-gen association map, images, and corresponding textual description in the "IVT_train" folder.
 
-(The code to generate the association map on your own is available in this [repository](https://github.com/AWCXV/TextFusion-Association_for_Training))
-
 Simply run the following prompt to start the training process:
 ```
 python main_trainTextFusion.py
 ```
 
 The trained models and corresponding loss values will be saved in the "models" folder.
+
+(The code to generate the association map on your own is available in this [repository](https://github.com/AWCXV/TextFusion-Association_for_Training))
 
 ### To test
 For the RGB and infrared image fusion (e.g., LLVIP):
