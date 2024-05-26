@@ -85,7 +85,7 @@ python main_test_gray_ir.py
 - 2024-2-12: The pre-trained model and test files are available now!
 
 ## Contact Informaiton
-If you have any questions, please contact me at <c.cheng@surrey.ac.uk>.
+If you have any questions, please contact me at <chunyang_cheng@163.com>.
 
 ## Citation
 If this work is helpful to you, please cite it as:
