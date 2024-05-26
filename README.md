@@ -84,6 +84,9 @@ python main_test_gray_ir.py
 - 2024-2-8: The training set of our IVT dataset is available now.
 - 2024-2-12: The pre-trained model and test files are available now!
 
+## Contact Informaiton
+If you have any questions, please contact me at <c.cheng@surrey.ac.uk>.
+
 ## Citation
 If this work is helpful to you, please cite it as:
 ```
