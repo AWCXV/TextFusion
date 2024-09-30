@@ -80,7 +80,6 @@ python main_test_gray_ir.py
 - regex
 - matplotlib
 - timm
-- thop
 
 
 ## Update
