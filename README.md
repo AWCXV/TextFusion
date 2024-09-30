@@ -72,9 +72,15 @@ python main_test_gray_ir.py
 
 ## Environment
 - Python 3.8.3
-- Torch 2.1.1
-- torchvision 0.16.1
+- Torch 2.1.2
+- torchvision 0.16.2
 - opencv-python 4.8.1.78
+- tqdm 4.66.5
+- ftfy 6.2.3
+- regex
+- matplotlib
+- timm
+- thop
 
 
 ## Update
