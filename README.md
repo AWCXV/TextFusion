@@ -95,6 +95,23 @@ If you have any questions, please contact me at <chunyang_cheng@163.com>.
 
 ## Citation
 If this work is helpful to you, please cite it as:
+
+```
+@article{CHENG2025102790,
+title = {TextFusion: Unveiling the power of textual semantics for controllable image fusion},
+journal = {Information Fusion},
+volume = {117},
+pages = {102790},
+year = {2025},
+issn = {1566-2535},
+doi = {https://doi.org/10.1016/j.inffus.2024.102790},
+url = {https://www.sciencedirect.com/science/article/pii/S1566253524005682},
+author = {Chunyang Cheng and Tianyang Xu and Xiao-Jun Wu and Hui Li and Xi Li and Zhangyong Tang and Josef Kittler},
+}
+```
+
+or the original arxiv version:
+
 ```
 @article{cheng2023textfusion,
   title={TextFusion: Unveiling the Power of Textual Semantics for Controllable Image Fusion},
