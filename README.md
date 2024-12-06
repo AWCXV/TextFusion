@@ -1,5 +1,5 @@
 # TextFusion
-This is the offical implementation for the paper titled "TextFusion: Unveiling the Power of Textual Semantics for Controllable Image Fusion". [Paper Link](https://arxiv.org/abs/2312.14209)
+This is the offical implementation for the paper titled "TextFusion: Unveiling the Power of Textual Semantics for Controllable Image Fusion". [Paper Link](https://www.sciencedirect.com/science/article/pii/S1566253524005682?casa_token=wIR2KSNJG6sAAAAA:TITMGkb8jaVZ9EDKYhxK5XhWMKok2k62RgFkldDQsjvI6EpTty4gvcHXR1Cq52AFsdsVOF9IDw)
 
 <div align="center">
   <img src="Figs/motivation2.png" width="1000px" />
