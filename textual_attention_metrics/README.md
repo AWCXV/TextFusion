@@ -1,4 +1,4 @@
-##Textual Attention Metrics
+## Textual Attention Metrics
 
 ### Usage
 Run the following prompt on the Matlab platform (R2018b version is recommended)
