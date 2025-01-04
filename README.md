@@ -70,6 +70,9 @@ For the grayscale and infrared image fusion (e.g., TNO):
 python main_test_gray_ir.py
 ```
 
+## Textual Attention Metrics
+Please refer to [this folder (textual_attention_metrics)](https://github.com/AWCXV/TextFusion/tree/main/textual_attention_metrics).
+
 ## Environment
 - Python 3.8.3
 - Torch 2.1.2
@@ -83,12 +86,13 @@ python main_test_gray_ir.py
 
 
 ## Update
+- 2025-1-4: The implementation of the textual attention metric is now available.
+- 2024-11-10: This work has been accepted by Information Fusion.
 - 2024-4-30: The codes for generating the association maps are available now!
 - 2024-3-14: The training code is available and corresponding pre-gen association maps are uploaded to the Google Drive.
 - 2024-3-5: The testing set of our IVT dataset is available now.
 - 2024-2-8: The training set of our IVT dataset is available now.
 - 2024-2-12: The pre-trained model and test files are available now!
-- 2024-11-10: This work has been accepted by Information Fusion.
 
 ## Contact Informaiton
 If you have any questions, please contact me at <chunyang_cheng@163.com>.
