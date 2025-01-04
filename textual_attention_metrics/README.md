@@ -7,10 +7,10 @@ Run the following prompt on the Matlab platform (R2018b version is recommended)
 main_evaluation
 ```
 
-The metrics (.xlsx) will be saved in folder of the fusion results (from left to right: Qabf+, ssim+, vif+).
+The metrics (.xlsx) will be saved in folder of the fusion results (from left to right: Qabf+, SSIM+, VIF+).
 
 ### Text-guided Images
-Link to the completed text-guided images of the IVT dataset: [Google Drive](https://drive.google.com/file/d/1AQEtc1rLMqSOUOU22JZj2a8dDe2AT9fh/view?usp=drive_link).
+Link to the completed text-guided images: [Google Drive](https://drive.google.com/file/d/1AQEtc1rLMqSOUOU22JZj2a8dDe2AT9fh/view?usp=drive_link).
 
 ### Text confidence
 
