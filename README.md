@@ -58,6 +58,8 @@ The trained models and corresponding loss values will be saved in the "models" f
 (The code to generate the association map on your own is available in this [repository](https://github.com/AWCXV/TextFusion-Association_for_Training))
 
 ### To test
+NOte: The pre-trained checkpoint can be found in the ["models" folder](https://github.com/AWCXV/TextFusion/tree/main/models).
+
 For the RGB and infrared image fusion (e.g., LLVIP):
 ```
 python main_test_rgb_ir.py
